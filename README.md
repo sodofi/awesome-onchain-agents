@@ -120,6 +120,13 @@ A Claude Code plugin marketplace from Trail of Bits providing skills to enhance 
 
 **[GitHub](https://github.com/trailofbits/skills)**
 
+### Ethereum Wingman
+
+An AI skill that teaches agents how to build Ethereum dApps through SpeedRun Ethereum challenges, Scaffold-ETH 2 tooling, and security best practices. Works with Claude Code, Cursor, Codex, and other AI coding agents.
+
+**[Website](https://ethwingman.com/)**
+**[GitHub](https://github.com/austintgriffith/ethereum-wingman)**
+
 ## Directories
 
 Discover other onchain agents.
