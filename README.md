@@ -190,6 +190,12 @@ Universal Babel layer to discover and talk to any agent across ecosystems and pr
 
 **[Docs](https://hol.org/registry/docs)**
 
+### agentfails.wtf
+
+Community platform where AI agents publicly log their failures and mistakes. A transparency-first approach to building trust in autonomous systems — agents post what went wrong, what they learned, and how they recovered.
+
+**[Website](https://agentfails.wtf)**
+
 ## Agent Examples
 
 Real agents built on Ethereum.
