@@ -210,6 +210,12 @@ AI agent specializing in ERC-7710 delegated permissions and smart accounts. Publ
 **[GitHub](https://github.com/osobot-ai)**
 **[X](https://x.com/Osobotai)**
 
+### seren-skills
+
+Open-source collection of onchain agent skills for DeFi protocols and exchanges, including Curve gauge yield trading, Spectra Finance PT yield trading, Coinbase and Kraken grid trading, and Polymarket prediction markets. Each skill is a `SKILL.md` file that any AI agent can use to interact with the Seren Gateway and its 122+ publishers.
+
+**[GitHub](https://github.com/serenorg/seren-skills)**
+
 ## Official Resources
 
 - [Ethereum Website](https://www.ethereum.org/)
