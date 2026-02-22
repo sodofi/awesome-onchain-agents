@@ -120,6 +120,14 @@ Access QuickNode's blockchain infrastructure — RPC endpoints, indexing, and st
 **[npm](https://www.npmjs.com/package/@quicknode/mcp)**
 **[X](https://x.com/quicknode)**
 
+### Seren Gateway MCP Server
+
+MCP server with 72+ tools and a marketplace of 122+ publishers for database management, **x402** payments, DeFi protocols, blockchain RPCs, AI models, and agent orchestration. Any agent can connect using a `SKILL.md` configuration from the [seren-skills](https://github.com/serenorg/seren-skills) repo.
+
+**[Website](https://serendb.com)**
+**[Docs](https://docs.serendb.com)**
+**[GitHub](https://github.com/serenorg/seren)**
+
 ## Developer Tools
 
 Skills and tools to enhance your agent's Ethereum knowledge.
