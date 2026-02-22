@@ -162,6 +162,14 @@ A collection of open-source libraries, tools, and applications designed to allow
 
 **[Docs](https://docs.faremeter.xyz/)**
 
+### Seren Desktop
+
+Open-source pay-per-call Agentic IDE built on **x402** payments and the Seren Gateway marketplace. Agents discover and use 122+ publishers (DeFi protocols, exchanges, AI models, blockchain RPCs), manage SerenBucks wallets, and make x402 stablecoin payments — all from a native desktop environment with built-in MCP support.
+
+**[Website](https://serendb.com)**
+**[Docs](https://docs.serendb.com)**
+**[GitHub](https://github.com/serenorg/seren-desktop)**
+
 ## Directories
 
 Discover other onchain agents.
