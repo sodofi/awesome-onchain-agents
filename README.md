@@ -18,9 +18,12 @@ Open-source frameworks for building and running AI agents.
 
 ### OpenClaw
 
-A local‑first, OS‑level autonomous agent framework.  It connects chat apps (WhatsApp, Telegram, Discord, etc.) to an agent that can control a computer via a skills system.
+A local‑first, OS‑level autonomous agent framework. Connects chat apps (WhatsApp, Telegram, Discord, Signal, etc.) to an agent that can autonomously control a computer — run scripts, call APIs, sign transactions, and manage wallets — via a composable skills system. Supports persistent memory, scheduled heartbeats, sub-agent spawning, and native onchain integrations (ERC-8004 identity, ENS, Base, Farcaster, and more).
 
 **[Docs](https://docs.openclaw.ai/getting-started)**
+**[GitHub](https://github.com/openclaw/openclaw)**
+**[Discord](https://discord.com/invite/clawd)**
+**[Skills Marketplace](https://clawhub.com)**
 
 ### ElizaOS
 
@@ -170,8 +173,13 @@ Privacy-preserving identity verification protocol using zero-knowledge proofs. A
 
 A collection of open-source libraries, tools, and applications designed to allow agents and other utilities to transparently make web3 payments using web2 infrastructure. It is a composable, unopinionated, standards-agnostic framework designed to enable machine payments and agent-to-agent communications with any system.
 
-
 **[Docs](https://docs.faremeter.xyz/)**
+
+### Clawhub
+
+Community skills marketplace for OpenClaw agents. Installable skill packs cover onchain actions (token deployment, ENS, NFT auctions, IPFS pinning), social platforms (Farcaster, X, Moltbook, Discord), memory and scheduling, and DeFi tools — each as a self-contained SKILL.md with scripts the agent can call directly.
+
+**[Website](https://clawhub.com)**
 
 ## Directories
 
