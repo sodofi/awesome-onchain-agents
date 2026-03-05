@@ -245,6 +245,13 @@ AI agent specializing in ERC-7710 delegated permissions and smart accounts. Publ
 **[GitHub](https://github.com/osobot-ai)**
 **[X](https://x.com/Osobotai)**
 
+### [@tator_trader](https://x.com/tator_trader)
+Conversational trading agent supporting 24+ EVM and Solana chains. Handles trades, sends, bridges, perpetual futures, prediction markets, DCA, token launches on Base, Ethereum, Unichain, and Solana, and yield farming through natural language. Available on Twitter/X, Telegram, WhatsApp, Farcaster, and web, and via x402 pay per request.
+
+**[Website](https://tatortrader.quickintel.io)**
+**[X](https://x.com/tator_trader)**
+**[x402 Gateway](https://x402.quickintel.io)**
+
 ## Official Resources
 
 - [Ethereum Website](https://www.ethereum.org/)
