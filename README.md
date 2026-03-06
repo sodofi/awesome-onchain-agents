@@ -7,10 +7,11 @@ A curated list of resources for building AI agents on Ethereum. For Ethereum-spe
 1. [Frameworks](#frameworks)
 2. [Standards & Protocols](#standards--protocols)
 3. [MCP Servers](#mcp-servers)
-4. [Developer Tools](#developer-tools)
-5. [Directories](#directories)
-6. [Agent Examples](#agent-examples)
-7. [Official Resources](#official-resources)
+4. [Agent Skills](#agent-skills)
+5. [Developer Tools](#developer-tools)
+6. [Directories](#directories)
+7. [Agent Examples](#agent-examples)
+8. [Official Resources](#official-resources)
 
 ## Frameworks
 
@@ -139,9 +140,33 @@ Research and due diligence across complex contracts, transactions, and wallets. 
 **[Article and Examples](https://x.com/andrewhong5297/status/2025973649212088721)**
 **[Herd Explorer](http://herd.eco/)**
 
-## Developer Tools
+### Slither MCP Server
 
-Skills and tools to enhance your agent's Ethereum knowledge.
+MCP server wrapping Slither static analysis for Solidity smart contracts. Query contract metadata, functions, inheritance, call graphs, and run security detectors. Works with Foundry and Hardhat projects.
+
+**[GitHub](https://github.com/trailofbits/slither-mcp)**
+
+### Zerion API MCP Server
+
+Real-time crypto data via Zerion's API — portfolio, transactions, PnL, DeFi positions, token prices, NFTs, and gas prices. Connect via URL: `https://developers.zerion.io/mcp`.
+
+**[Website](https://developers.zerion.io/reference/building-with-ai)**
+
+### AgentHub by Allium
+
+Onchain data across 150+ chains in one prompt — token prices, wallet balances, and transaction history. Works with Claude, ChatGPT, and agent frameworks.
+
+**[Website](https://agents.allium.so/)**
+
+### Ethereum MCP
+
+153 tools across Etherscan, DefiLlama, CoinGecko, growthepie, Blobscan, and Dune — balances, TVL, yields, prices, 60+ chains. Built for researchers.
+
+**[GitHub](https://github.com/ETHCF/ethereum-mcp)**
+
+## Agent Skills
+
+Skills and plugins for Ethereum development and security.
 
 ### Ethskills
 
@@ -155,6 +180,35 @@ AI skills that teach agents how to build Ethereum dApps using Scaffold-ETH, Foun
 A Claude Code plugin marketplace from Trail of Bits providing skills to enhance AI-assisted security analysis, testing, and development workflows.
 
 **[GitHub](https://github.com/trailofbits/skills)**
+
+### Uniswap AI
+
+Reusable skills, plugins, and agents for building on Uniswap with coding assistants.
+
+**[Website](https://developers.uniswap.org/)**
+**[GitHub](https://github.com/uniswap/uniswap-ai)**
+
+### Pashov Audit Group Smart Contract Security Skills
+
+Fast security feedback on Solidity changes while you develop. Works with Claude Code CLI, VS Code Claude extension, and Cursor.
+
+**[GitHub](https://github.com/pashov/skills)**
+
+### Cyfrin solskill
+
+Solidity development standards for production-grade code — thorough on testing, code quality, and smart contract sensitivity. Install via Cyfrin marketplace.
+
+**[GitHub](https://github.com/Cyfrin/solskill)**
+
+### HackenProof Triage Skill
+
+Reusable triage skill for HackenProof bug bounty report handling. Verifies commit/version scope, checks duplicates, and validates submissions to decide state, severity, and comments.
+
+**[GitHub](https://github.com/hackenproof-public/skills)**
+
+## Developer Tools
+
+Skills and tools to enhance your agent's Ethereum knowledge.
 
 ### Ampersend
 
