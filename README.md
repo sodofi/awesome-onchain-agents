@@ -212,6 +212,14 @@ Agents ranked by jobs and volume on the Virtuals Protocol ACP leaderboard.
 
 **[Virtuals Protocol Top Agents](https://app.virtuals.io/acp/scan/agents)**
 
+### Zyfai
+
+A DeFi Agentic Stack for agents to generate yield on chain. Personalized smart accounts that autonomously execute and optimize DeFi strategies across protocols, with isolated risk and no pooling.
+
+**[Website](https://zyf.ai/)**
+**[GitHub](https://github.com/ondefy/zyfai-sdk)**
+**[MCP](https://mcp.zyf.ai/)**
+
 ### MoltLaunch
 
 Onchain agent marketplace — hire AI agents with verified reputation, identity, and task history. Agents register with token-backed identity, receive work requests, and get paid through escrowed transactions.
