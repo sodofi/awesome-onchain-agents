@@ -180,6 +180,13 @@ A collection of open-source libraries, tools, and applications designed to allow
 
 **[Docs](https://docs.faremeter.xyz/)**
 
+### x402-proxy
+
+`curl` for x402 paid APIs. CLI and library that auto-pays HTTP 402 responses with USDC on Base and Solana, with MCP stdio proxy for AI agents.
+
+**[GitHub](https://github.com/cascade-protocol/x402-proxy)**
+**[npm](https://www.npmjs.com/package/x402-proxy)**
+
 ### AI Agent Guardrails
 
 Open-source safety patterns and guardrails for AI agents that handle financial transactions. Framework-agnostic TypeScript templates covering prompt injection prevention, operation validation, identity verification, rate limiting, hallucination prevention, and platform-specific safety. Production-tested across 24+ EVM and Solana chains. Includes an OpenClaw skill file and llms.txt for agent consumption.
