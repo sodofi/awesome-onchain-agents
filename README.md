@@ -18,13 +18,13 @@ Open-source frameworks for building and running AI agents.
 
 ### OpenClaw
 
-A local‑first, OS‑level autonomous agent framework.  It connects chat apps (WhatsApp, Telegram, Discord, etc.) to an agent that can control a computer via a skills system.
+A localâfirst, OSâlevel autonomous agent framework.  It connects chat apps (WhatsApp, Telegram, Discord, etc.) to an agent that can control a computer via a skills system.
 
 **[Docs](https://docs.openclaw.ai/getting-started)**
 
 ### ElizaOS
 
-An multi‑platform agent framework with strong social + onchain plugins, memory, and integrations.
+An multiâplatform agent framework with strong social + onchain plugins, memory, and integrations.
 
 Typically used for social/companion/game agents that have persistent memory, can coordinate with other agents, and call plugins for things like trading, NFTs, DeFi, etc.
 
@@ -32,9 +32,9 @@ Typically used for social/companion/game agents that have persistent memory, can
 
 ### Virtuals Protocol
 
-Agent framework and onchain commerce protocol for building autonomous, revenue‑generating AI agents.
+Agent framework and onchain commerce protocol for building autonomous, revenueâgenerating AI agents.
 
-Typically used to create tokenized agents that post on social (e.g. X), trade, or provide onchain services, and then earn fees or revenue as independent “agent businesses.”
+Typically used to create tokenized agents that post on social (e.g. X), trade, or provide onchain services, and then earn fees or revenue as independent âagent businesses.â
 
 **[Website](https://www.virtuals.io/)**
 
@@ -53,26 +53,26 @@ No code one-click deployment on Coral [guide](https://docs.coral.inc/getting-sta
 
 Standards that define how agents identify themselves and transact onchain.
 
-### x402 — HTTP Payments
+### x402 â HTTP Payments
 
 Open payment protocol that uses the HTTP 402 status code to enable instant stablecoin payments over HTTP. Supports pay-per-use APIs, content paywalls, and agent-to-agent transactions.
 
 **[Docs](https://docs.cdp.coinbase.com/x402)**
 
-### ERC-8004 — Agent Identity
+### ERC-8004 â Agent Identity
 
 Standard for registering and verifying agent identity onchain. Enables agents to build verifiable reputation.
 
 **[Website](https://www.8004.org/)**
 
-### ERC-7710 — Delegated Permissions
+### ERC-7710 â Delegated Permissions
 
-Standard for scoped, revocable delegation of onchain authority. Enables agents to act with bounded permissions — spending caps, time limits, token whitelists — enforced by caveat smart contracts. Supports composable permission chains for agent-to-agent delegation.
+Standard for scoped, revocable delegation of onchain authority. Enables agents to act with bounded permissions â spending caps, time limits, token whitelists â enforced by caveat smart contracts. Supports composable permission chains for agent-to-agent delegation.
 
 **[EIP](https://eips.ethereum.org/EIPS/eip-7710)**
 **[GitHub](https://github.com/MetaMask/delegation-framework)**
 
-### ERC-8128 — Wallet-based Authentication
+### ERC-8128 â Wallet-based Authentication
 
 Extension of RFC 9421 HTTP Message Signatures for Ethereum wallets. Enables wallet-based authentication and request integrity verification over HTTP.
 
@@ -82,7 +82,7 @@ Extension of RFC 9421 HTTP Message Signatures for Ethereum wallets. Enables wall
 **[npm](https://www.npmjs.com/package/@slicekit/erc8128)**
 **[llms.txt](https://erc8128.slice.so/llms.txt)**
 
-### SIWA — Sign In With Agent
+### SIWA â Sign In With Agent
 
 Authentication protocol built on ERC-8004 and ERC-8128 that provides trustless identity and authentication for AI agents.
 
@@ -111,7 +111,7 @@ Resolve names, reverse-lookup addresses, check availability, and retrieve ENS re
 
 ### Blockscout MCP Server
 
-Access blockchain data — balances, tokens, NFTs, and contract metadata.
+Access blockchain data â balances, tokens, NFTs, and contract metadata.
 
 **[Website](https://www.blockscout.com)**
 **[GitHub](https://github.com/blockscout/mcp-server)**
@@ -124,7 +124,7 @@ Check balances, view transactions, track ERC20 transfers, fetch contract ABIs, m
 
 ### QuickNode MCP Server
 
-Access QuickNode's blockchain infrastructure — RPC endpoints, indexing, and streaming — from your AI assistant.
+Access QuickNode's blockchain infrastructure â RPC endpoints, indexing, and streaming â from your AI assistant.
 
 **[Website](https://quicknode.com/)**
 **[GitHub](https://github.com/quiknode-labs/qn-mcp)**
@@ -214,7 +214,7 @@ Agents ranked by jobs and volume on the Virtuals Protocol ACP leaderboard.
 
 ### MoltLaunch
 
-Onchain agent marketplace — hire AI agents with verified reputation, identity, and task history. Agents register with token-backed identity, receive work requests, and get paid through escrowed transactions.
+Onchain agent marketplace â hire AI agents with verified reputation, identity, and task history. Agents register with token-backed identity, receive work requests, and get paid through escrowed transactions.
 
 **[Website](https://moltlaunch.com/)**
 
@@ -238,7 +238,7 @@ AI agent with a wallet, building onchain apps and improving the tools to build t
 
 ### @ClawdiaBotAI
 
-AI agent built on OpenClaw — deploys tokens, audits contracts, and ships onchain apps autonomously. Registered on ERC-8004, holds a Bankr Club NFT, and active on Base, Farcaster, and X. Ships live projects including SpellBlock (daily commit-reveal word game denominated in $CLAWDIA) and the Anons DAO governance API (ERC-8128 authenticated).
+AI agent built on OpenClaw â deploys tokens, audits contracts, and ships onchain apps autonomously. Registered on ERC-8004, holds a Bankr Club NFT, and active on Base, Farcaster, and X. Ships live projects including SpellBlock (daily commit-reveal word game denominated in $CLAWDIA) and the Anons DAO governance API (ERC-8128 authenticated).
 
 **[Website](https://clawdiabot.eth.limo)**
 **[X](https://x.com/ClawdiaBotAI)**
@@ -252,6 +252,9 @@ AI agent specializing in ERC-7710 delegated permissions and smart accounts. Publ
 **[Website](https://osoknows.com)**
 **[GitHub](https://github.com/osobot-ai)**
 **[X](https://x.com/Osobotai)**
+
+- **[AgentBroker](https://agentbroker.polsia.app)** — API-first crypto exchange built for onchain AI agents. Register, deposit, trade crypto, and withdraw programmatically via REST API. Sandbox mode available.
+
 
 ## Official Resources
 
