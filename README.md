@@ -262,3 +262,11 @@ AI agent specializing in ERC-7710 delegated permissions and smart accounts. Publ
 # Contribute
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+
+### Arch Tools
+
+The first x402 API hub — 58+ AI tools for search, scraping, analysis, and generation with native Coinbase x402 crypto payments on 15+ chains. MCP compatible.
+
+**[Website](https://archtools.dev)**
+**[Docs](https://archtools.dev/docs)**
+**[GitHub](https://github.com/Deesmo/Arch-AI-Tools)**
