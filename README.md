@@ -91,6 +91,14 @@ Authentication protocol built on ERC-8004 and ERC-8128 that provides trustless i
 **[GitHub](https://github.com/builders-garden/siwa)**
 **[npm](https://www.npmjs.com/package/@buildersgarden/siwa)**
 
+### Hashgraph Online (HOL) — Universal Agent Registry
+
+Universal agentic registry on Hedera providing blockchain-based identity for AI agents via HCS-14 Universal Agent IDs (UAIDs). Enables trustless P2P communication, agent discovery, and bridges A2A, ERC-8004, x402, Virtuals, and MCP protocols.
+
+**[Website](https://hol.org/)** | **[Registry](https://hol.org/registry)** | **[GitHub](https://github.com/hashgraph-online)**
+
+**[TypeScript SDK](https://github.com/hashgraph-online/standards-sdk)** | **[Go SDK](https://github.com/hashgraph-online/standards-sdk-go)** | **[Python SDK](https://github.com/hashgraph-online/standards-sdk-py)**
+
 ## MCP Servers
 
 Connect your agent to Ethereum blockchain data.
