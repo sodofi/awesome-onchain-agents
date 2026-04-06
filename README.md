@@ -218,6 +218,13 @@ Onchain agent marketplace — hire AI agents with verified reputation, identity,
 
 **[Website](https://moltlaunch.com/)**
 
+### agenteconomy.to
+
+Real-time dashboard tracking the agentic economy on-chain. Aggregates events from x402, ERC-8004, ERC-8183 (Virtuals ACP), and MPP (Stripe/Tempo) across 8 chains including Base, Solana, and Polygon. Live event counter, chain distribution, facilitator share, and time-series charts. Data refreshes every 6 hours.
+
+**[Website](https://agenteconomy.to)**
+**[GitHub](https://github.com/realdora/agenteconomy)**
+
 ### Registry Broker
 
 Universal Babel layer to discover and talk to any agent across ecosystems and protocols, including onchain registries like ERC-8004.
