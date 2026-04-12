@@ -253,6 +253,13 @@ AI agent specializing in ERC-7710 delegated permissions and smart accounts. Publ
 **[GitHub](https://github.com/osobot-ai)**
 **[X](https://x.com/Osobotai)**
 
+### Carbon DeFi MCP Server
+
+Create and manage on-chain maker trading strategies — limit orders, range orders, recurring buy/sell, and concentrated liquidity. Returns unsigned transactions for user signing. Zero gas on fills. Strategies execute autonomously on-chain across Ethereum, Sei, Celo, Coti and TAC.
+
+**[Website](https://www.carbondefi.xyz)**
+**[Docs](https://docs.carbondefi.xyz/ai-agents-and-mcp-integration)**
+
 ## Official Resources
 
 - [Ethereum Website](https://www.ethereum.org/)
