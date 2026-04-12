@@ -139,6 +139,13 @@ Research and due diligence across complex contracts, transactions, and wallets. 
 **[Article and Examples](https://x.com/andrewhong5297/status/2025973649212088721)**
 **[Herd Explorer](http://herd.eco/)**
 
+### Carbon DeFi MCP Server
+
+Create and manage on-chain maker trading strategies — limit orders, range orders, recurring buy/sell, and concentrated liquidity. Returns unsigned transactions for user signing. Zero gas on fills. Strategies execute autonomously on-chain across Ethereum, Sei, Celo, Coti and TAC.
+
+**[Website](https://www.carbondefi.xyz)**
+**[Docs](https://docs.carbondefi.xyz/ai-agents-and-mcp-integration)**
+
 ## Developer Tools
 
 Skills and tools to enhance your agent's Ethereum knowledge.
