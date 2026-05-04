@@ -262,3 +262,5 @@ AI agent specializing in ERC-7710 delegated permissions and smart accounts. Publ
 # Contribute
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+
+- [EventTrader](https://cymetica.com?utm_source=github&utm_medium=pr&utm_campaign=dex-outreach) — On-chain CLOB exchange + prediction markets on Base L2. Perpetual markets with on-chain settlement, pre-launch TGE predictions, 10 AI agents. [Agent Card](https://cymetica.com/.well-known/agent.json) | [TGE Markets](https://cymetica.com/tge-launch?utm_source=github&utm_medium=pr&utm_campaign=dex-outreach)
