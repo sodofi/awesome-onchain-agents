@@ -196,6 +196,15 @@ Agent wallet infrastructure and token launch platform on Base. Provides AI agent
 **[Docs](https://docs.bankr.bot)**
 **[X](https://x.com/bankrbot)**
 
+### THRYX Onchain Primitives
+
+Suite of 14 immutable, permissionless smart contracts on Base mainnet for AI agents to discover and use without permission. Includes EIP-5564 stealth address registry, address tagging market (stake-weighted attestations on addresses), atomic swap HTLC, slashable promise vault, conditional token drop, time capsule, group bounty pool, dead-man switch, and 5 keeper-bounty markets (vesting auto-claim, ENS auto-renewal, DAO proposal execution, NFT cancel-on-floor-drop, curve graduation pusher) plus a manual floor oracle. All contracts are verified on Basescan with no admin keys after deploy.
+
+**[Website](https://thryx.fun)**
+**[DeadManSwitch](https://github.com/lordbasilaiassistant-sudo/deadman-switch)**
+**[Keeper Bounty Lab](https://github.com/lordbasilaiassistant-sudo/keeper-bounty-lab)**
+**[Onchain Primitives Lab](https://github.com/lordbasilaiassistant-sudo/onchain-primitives-lab)**
+
 ## Directories
 
 Discover other onchain agents.
