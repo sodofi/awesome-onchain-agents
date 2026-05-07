@@ -91,6 +91,14 @@ Authentication protocol built on ERC-8004 and ERC-8128 that provides trustless i
 **[GitHub](https://github.com/builders-garden/siwa)**
 **[npm](https://www.npmjs.com/package/@buildersgarden/siwa)**
 
+### AFTA — Agent Fair-Trade Agreement
+
+Open standard for paid agent APIs. Sits on top of x402 (or any rail) and adds bilateral fair-trade guarantees: code-enforced no-charge paths for upstream errors, Ed25519-signed receipts the agent can verify offline, and machine-readable dispute defense for the publisher. MIT, no protocol fee, no signup.
+
+**[Website](https://tensorfeed.ai/afta)**
+**[Spec](https://github.com/RipperMercs/afta)**
+**[Cloudflare Worker template](https://github.com/RipperMercs/afta-cloudflare-worker)**
+
 ## MCP Servers
 
 Connect your agent to Ethereum blockchain data.
