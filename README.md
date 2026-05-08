@@ -65,6 +65,13 @@ Standard for registering and verifying agent identity onchain. Enables agents to
 
 **[Website](https://www.8004.org/)**
 
+### ERC-8183 — Agentic Commerce (Service-Delivery Escrow)
+
+EVM-native escrow standard for agent-to-agent service delivery. Where x402 settles instantly per request, ERC-8183 holds funds in escrow across a Job lifecycle (`createJob → approve → fund → submit → complete | reject`) so a neutral Evaluator can adjudicate disputes on-chain. Stablecoin-denominated, 3-way fee splits enforced by the contract, refund-on-expiry, and writes feedback to ERC-8004 ReputationRegistry on settlement.
+
+**[EIP](https://eips.ethereum.org/EIPS/eip-8183)**
+**[Discussion](https://ethereum-magicians.org/t/erc-8183-agentic-commerce/27902)**
+
 ### ERC-7710 — Delegated Permissions
 
 Standard for scoped, revocable delegation of onchain authority. Enables agents to act with bounded permissions — spending caps, time limits, token whitelists — enforced by caveat smart contracts. Supports composable permission chains for agent-to-agent delegation.
@@ -163,6 +170,17 @@ Management platform and SDK for agent payments. Built on **x402**, **A2A**, and 
 **[Website](https://ampersend.ai)**
 **[Docs](https://docs.ampersend.io)**
 **[GitHub](https://github.com/edgeandnode/ampersend)**
+
+### CardZero
+
+Smart-contract wallet (ERC-4337) for AI agents on Base mainnet. Owner sets spending rules off-chain (per-tx limit, daily cap, whitelist, freeze) via dashboard; agent transacts USDC autonomously within them. Buyer-side **x402** support is built in. Runs the first known production deployment of **ERC-8004** (identity + reputation) and **ERC-8183** (escrow Jobs) on a public mainnet — useful as a runnable reference for either standard.
+
+**[Website](https://cardzero.ai)**
+**[Docs](https://cardzero.ai/docs)**
+**[GitHub](https://github.com/mrocker/CardZero)**
+**[npm (MCP)](https://www.npmjs.com/package/cardzero-mcp)**
+**[OpenAPI](https://github.com/mrocker/CardZero/blob/main/openapi.yaml)**
+**[llms-full.txt](https://cardzero.ai/llms-full.txt)**
 
 ### Self
 
