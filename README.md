@@ -91,6 +91,14 @@ Authentication protocol built on ERC-8004 and ERC-8128 that provides trustless i
 **[GitHub](https://github.com/builders-garden/siwa)**
 **[npm](https://www.npmjs.com/package/@buildersgarden/siwa)**
 
+### AFTA — Agent Fair-Trade Agreement
+
+Open standard for paid agent APIs. Sits on top of x402 (or any rail) and adds bilateral fair-trade guarantees: code-enforced no-charge paths for upstream errors, Ed25519-signed receipts the agent can verify offline, and machine-readable dispute defense for the publisher. MIT, no protocol fee, no signup.
+
+**[Website](https://tensorfeed.ai/afta)**
+**[Spec](https://github.com/RipperMercs/afta)**
+**[Cloudflare Worker template](https://github.com/RipperMercs/afta-cloudflare-worker)**
+
 ## MCP Servers
 
 Connect your agent to Ethereum blockchain data.
@@ -138,6 +146,14 @@ Research and due diligence across complex contracts, transactions, and wallets. 
 **[Docs and Installation](https://docs.herd.eco/herd-mcp/introduction)**
 **[Article and Examples](https://x.com/andrewhong5297/status/2025973649212088721)**
 **[Herd Explorer](http://herd.eco/)**
+
+### TensorFeed x402 Base MCP
+
+Read-only Base mainnet chain reader purpose-built for x402 payment verification. Verify on-chain that a USDC settlement actually matches a claimed x402 receipt (recipient + amount), parse publisher `/.well-known/x402` manifests, list recent USDC payments to any address, and check AFTA federation status. No private keys, no signing, no broadcasts. Eleven tools, stdio transport, MIT.
+
+**[npm](https://www.npmjs.com/package/@tensorfeed/x402-base-mcp)**
+**[GitHub](https://github.com/RipperMercs/tensorfeed-x402-base-mcp)**
+**[MCP registry](https://registry.modelcontextprotocol.io/v0/servers/ai.tensorfeed/x402-base-mcp)**
 
 ## Developer Tools
 
