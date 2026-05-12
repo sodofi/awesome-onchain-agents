@@ -147,6 +147,14 @@ Research and due diligence across complex contracts, transactions, and wallets. 
 **[Article and Examples](https://x.com/andrewhong5297/status/2025973649212088721)**
 **[Herd Explorer](http://herd.eco/)**
 
+### TensorFeed x402 Base MCP
+
+Read-only Base mainnet chain reader purpose-built for x402 payment verification. Verify on-chain that a USDC settlement actually matches a claimed x402 receipt (recipient + amount), parse publisher `/.well-known/x402` manifests, list recent USDC payments to any address, and check AFTA federation status. No private keys, no signing, no broadcasts. Eleven tools, stdio transport, MIT.
+
+**[npm](https://www.npmjs.com/package/@tensorfeed/x402-base-mcp)**
+**[GitHub](https://github.com/RipperMercs/tensorfeed-x402-base-mcp)**
+**[MCP registry](https://registry.modelcontextprotocol.io/v0/servers/ai.tensorfeed/x402-base-mcp)**
+
 ## Developer Tools
 
 Skills and tools to enhance your agent's Ethereum knowledge.
