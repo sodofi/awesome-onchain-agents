@@ -196,6 +196,23 @@ Agent wallet infrastructure and token launch platform on Base. Provides AI agent
 **[Docs](https://docs.bankr.bot)**
 **[X](https://x.com/bankrbot)**
 
+### Aomi Transact
+
+Natural-language crypto agent skill: turns prompts like "swap 1 ETH for USDC", "open a 3x GMX long", or "bet $100 on Polymarket" into fork-simulated, wallet-signed transactions across EVM chains (Ethereum, Base, Arbitrum, Optimism, Polygon, Linea). Non-custodial — the agent stages calldata and queues a wallet request; the user signs explicitly. Account-abstraction first (EIP-7702 on Ethereum, ERC-4337 on L2s with Alchemy/Pimlico). 40+ tuned protocol integrations (Uniswap, Aave, Lido, Morpho, Across, 1inch, GMX, Hyperliquid, Polymarket, Binance, OKX). Drain-vector protection at simulation time. Drop into Claude Code / Cursor / Codex / Gemini as a plugin.
+
+**[Website](https://aomi.dev)**
+**[GitHub](https://github.com/aomi-labs/skills/tree/main/aomi-transact)**
+**[ClawHub](https://clawhub.ai/skills/aomi-transact)**
+**[LobeHub](https://lobehub.com/skills/aomi-labs-aomi-aomi-transact)**
+
+### Aomi Build
+
+Companion skill for builders extending Aomi: scaffolds Rust SDK crates (`lib.rs` / `client.rs` / `tool.rs` plus tool schemas, preambles, and host-interop flows) from OpenAPI/Swagger specs, SDK docs, or repository examples. Converts API surfaces into Aomi protocol integrations callable from the natural-language agent.
+
+**[GitHub](https://github.com/aomi-labs/skills/tree/main/aomi-build)**
+**[ClawHub](https://clawhub.ai/skills/aomi-build)**
+**[LobeHub](https://lobehub.com/skills/aomi-labs-aomi-aomi-build)**
+
 ## Directories
 
 Discover other onchain agents.
