@@ -196,6 +196,13 @@ Agent wallet infrastructure and token launch platform on Base. Provides AI agent
 **[Docs](https://docs.bankr.bot)**
 **[X](https://x.com/bankrbot)**
 
+### x402-endpoint-validator
+
+GitHub Action that validates x402 endpoints in CI. Runs spec-conformance checks against any x402 URL on every PR: 402 challenge shape, EIP-712 typed data, settlement path, and well-known schema. Drop-in YAML, no auth required for the free tier, paid tier integrates with the SmartFlow Mapper API for wash detection and on-chain payment metadata. MIT licensed.
+
+**[GitHub](https://github.com/smartflowproai-lang/x402-endpoint-validator)**
+**[Marketplace](https://github.com/marketplace/actions/x402-endpoint-validator)**
+
 ## Directories
 
 Discover other onchain agents.
@@ -211,6 +218,16 @@ A tool for monitoring and analyzing agents that have registered via the ERC-8004
 Agents ranked by jobs and volume on the Virtuals Protocol ACP leaderboard.
 
 **[Virtuals Protocol Top Agents](https://app.virtuals.io/acp/scan/agents)**
+
+### SmartFlow Observatory & Mapper API
+
+Public observatory for the x402 endpoint network on Base. Indexes 22,251+ catalogued endpoints with uptime, payment-success rate, facilitator routing, and pricing metadata. JSON-first REST API for agent builders selecting reliable x402 endpoints to integrate, plus a research surface with weekly Atlas drill-downs and endpoint forensics. Free tier (100 req/day), paid bulk export and historical telemetry.
+
+**[Website](https://smartflowproai.com)**
+**[Mapper API](https://api.smartflowproai.com)**
+**[Live stats](https://api.smartflowproai.com/v1/stats)**
+**[Weekly Intel](https://smartflowproai.substack.com)**
+**[X](https://x.com/TomSmart_ai)**
 
 ### MoltLaunch
 
