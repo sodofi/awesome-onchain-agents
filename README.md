@@ -139,6 +139,14 @@ Research and due diligence across complex contracts, transactions, and wallets. 
 **[Article and Examples](https://x.com/andrewhong5297/status/2025973649212088721)**
 **[Herd Explorer](http://herd.eco/)**
 
+### GoCreative Agent API
+
+145+ pay-per-call API tools for AI agents (social enrichment, OSINT, web scraping, image generation, document intelligence) exposed as one MCP server. Native x402 paywall on Base (USDC) — agents pay per call with no signup. Free 5 calls/day per IP demo tier.
+
+**[Website](https://api.gocreativeai.com)**
+**[MCP Endpoint](https://api.gocreativeai.com/mcp)**
+**[Official MCP Registry](https://registry.modelcontextprotocol.io/v0/servers/io.github.ColinHughes2121/gocreative-agent-api)**
+
 ## Developer Tools
 
 Skills and tools to enhance your agent's Ethereum knowledge.
