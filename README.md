@@ -139,6 +139,14 @@ Research and due diligence across complex contracts, transactions, and wallets. 
 **[Article and Examples](https://x.com/andrewhong5297/status/2025973649212088721)**
 **[Herd Explorer](http://herd.eco/)**
 
+### CTRL
+
+Visual DeFi workflow automation MCP for Base + Ethereum mainnet. Compose triggers (cron, price, balance, `pool.created`, whale-watch) and actions (swaps via Uniswap V4, USDC payouts, notifications) on a canvas; an 8-wallet keeper executes from vault-direct V13 smart contracts — no session keys, no delegated approvals.
+
+**[Website](https://ctrl.build/)**
+**[GitHub](https://github.com/CTRLabs/ctrl-mcp)**
+**[Docs](https://ctrl.build/docs)**
+
 ## Developer Tools
 
 Skills and tools to enhance your agent's Ethereum knowledge.
@@ -195,6 +203,14 @@ Agent wallet infrastructure and token launch platform on Base. Provides AI agent
 **[Website](https://bankr.bot)**
 **[Docs](https://docs.bankr.bot)**
 **[X](https://x.com/bankrbot)**
+
+### CTRL Skill
+
+Drop-in agent skill that teaches any MCP-capable LLM to use CTRL — recurring on-chain workflows on Base + Ethereum mainnet. DCA, snipe new launches, price-trigger swaps, whale-watch copy trades. The wallet signs once via EIP-5792; the keeper runs the workflow forever under vault-direct caps. One-line install via the `skills.sh` convention.
+
+**[Website](https://ctrl.build/)**
+**[GitHub](https://github.com/CTRLabs/ctrl-skill)**
+**[Install](https://github.com/CTRLabs/ctrl-skill#install)**
 
 ## Directories
 
