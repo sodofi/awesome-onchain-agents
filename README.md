@@ -180,6 +180,14 @@ A collection of open-source libraries, tools, and applications designed to allow
 
 **[Docs](https://docs.faremeter.xyz/)**
 
+
+### TWZRD Agent Intel
+
+Trust scoring MCP server for AI agents transacting on Solana. Verify agent identity and reputation before x402 micropayments. Free MCP tools (`score_agent`, `preflight_check`) with streamable-http endpoint.
+
+- **Website**: https://intel.twzrd.xyz
+- **MCP endpoint**: https://intel.twzrd.xyz/mcp
+
 ### AI Agent Guardrails
 
 Open-source safety patterns and guardrails for AI agents that handle financial transactions. Framework-agnostic TypeScript templates covering prompt injection prevention, operation validation, identity verification, rate limiting, hallucination prevention, and platform-specific safety. Production-tested across 24+ EVM and Solana chains. Includes an OpenClaw skill file and llms.txt for agent consumption.
