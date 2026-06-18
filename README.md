@@ -38,6 +38,12 @@ Typically used to create tokenized agents that post on social (e.g. X), trade, o
 
 **[Website](https://www.virtuals.io/)**
 
+### Aeon
+
+An autonomous agent framework that runs unattended on GitHub Actions — no approval loops, cron + reactive triggers. Skills are readable Markdown and can settle USDC through the Bankr gateway and consume x402-gated endpoints, so scheduled agents take onchain actions without a human in the loop. Ships onchain-security skills (rug-scan, approval-audit, fund-flow tracing) and a self-healing loop that scores and repairs its own skills.
+
+**[GitHub](https://github.com/aaronjmars/aeon)**
+
 ## Deployment Setup Guides
 
 ### Mac Mini
