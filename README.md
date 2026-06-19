@@ -196,6 +196,14 @@ Agent wallet infrastructure and token launch platform on Base. Provides AI agent
 **[Docs](https://docs.bankr.bot)**
 **[X](https://x.com/bankrbot)**
 
+### Block Lottos Agent API
+
+Agent-readable onchain lottery and advertising API for Base and Polygon. Agents can discover live draws, read jackpot and contract status, check wallet tickets and prizes, fetch ad inventory, and prepare user-signed wallet transactions without server-side key custody.
+
+**[Website](https://blocklottos.com/games)**
+**[Agent Manifest](https://blocklottos.com/.well-known/agent.json)**
+**[OpenAPI](https://blocklottos.com/openapi.json)**
+
 ## Directories
 
 Discover other onchain agents.
