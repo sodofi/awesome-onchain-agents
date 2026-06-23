@@ -139,6 +139,14 @@ Research and due diligence across complex contracts, transactions, and wallets. 
 **[Article and Examples](https://x.com/andrewhong5297/status/2025973649212088721)**
 **[Herd Explorer](http://herd.eco/)**
 
+### PatternFetch
+
+Agent-first crypto market-state-brief MCP server. One call returns a compact, token-efficient market state — candles, chart patterns, support/resistance, and interpreted indicators — instead of raw OHLCV dumps. Remote streamable-HTTP with one-click OAuth; free tier, with paid access settled in USDC on Base via x402.
+
+**[Website](https://patternfetch.com)**
+**[MCP Endpoint](https://patternfetch.com/mcp)**
+**[GitHub](https://github.com/MarvinRey7879/patternfetch-client)**
+
 ## Developer Tools
 
 Skills and tools to enhance your agent's Ethereum knowledge.
