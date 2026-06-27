@@ -139,6 +139,15 @@ Research and due diligence across complex contracts, transactions, and wallets. 
 **[Article and Examples](https://x.com/andrewhong5297/status/2025973649212088721)**
 **[Herd Explorer](http://herd.eco/)**
 
+### AgentsCoin MCP Server
+
+Give your AI agent its own money — create a wallet, get AGENT from a faucet (in chat), send, and create/trade tokens on a live EVM chain. MCP server plus a one-click Claude Desktop extension. 9 tools.
+
+**[GitHub](https://github.com/axiosdevs/agentscoin-mcp)**
+**[Claude Desktop Extension](https://github.com/axiosdevs/agentscoin-claude-extension)**
+**[npm](https://www.npmjs.com/package/agentscoin-mcp)**
+**[Website](https://agents-coin.com)**
+
 ## Developer Tools
 
 Skills and tools to enhance your agent's Ethereum knowledge.
