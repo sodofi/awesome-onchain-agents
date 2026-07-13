@@ -183,7 +183,7 @@ A collection of open-source libraries, tools, and applications designed to allow
 
 ### TWZRD Agent Intel
 
-Trust scoring MCP server for AI agents transacting on Solana. Verify agent identity and reputation before x402 micropayments. Free MCP tools (`score_agent`, `preflight_check`) with streamable-http endpoint.
+Trust scoring MCP server for AI agents transacting on Solana. Verify agent identity and reputation before x402 micropayments. Free MCP tools (`score_wallet_for_intel`, `get_readiness_card_tool`) with streamable-http endpoint.
 
 - **Website**: https://intel.twzrd.xyz
 - **MCP endpoint**: https://intel.twzrd.xyz/mcp
