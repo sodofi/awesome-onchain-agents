@@ -139,6 +139,13 @@ Research and due diligence across complex contracts, transactions, and wallets. 
 **[Article and Examples](https://x.com/andrewhong5297/status/2025973649212088721)**
 **[Herd Explorer](http://herd.eco/)**
 
+### Sato Hub MCP Server
+
+Read-only MCP server for querying Sato Hub's daily-updated index of onchain agents, including profiles, scores, changes, resources, and ecosystem news.
+
+**[MCP Docs](https://satohub.ai/mcp)**
+**[GitHub](https://github.com/satohubai/onchain-agents)**
+
 ## Developer Tools
 
 Skills and tools to enhance your agent's Ethereum knowledge.
@@ -223,6 +230,13 @@ Onchain agent marketplace — hire AI agents with verified reputation, identity,
 Universal Babel layer to discover and talk to any agent across ecosystems and protocols, including onchain registries like ERC-8004.
 
 **[Docs](https://hol.org/registry/docs)**
+
+### Sato Hub
+
+Public index of onchain agents with daily updates and evidence-oriented scoring across openness, activity, and verifiability.
+
+**[Website](https://satohub.ai/agents)**
+**[GitHub](https://github.com/satohubai/onchain-agents)**
 
 ## Agent Examples
 
