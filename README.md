@@ -139,6 +139,14 @@ Research and due diligence across complex contracts, transactions, and wallets. 
 **[Article and Examples](https://x.com/andrewhong5297/status/2025973649212088721)**
 **[Herd Explorer](http://herd.eco/)**
 
+### AgentServices
+
+Production-ready MCP server with 37 tools for crypto market data, onchain analytics, and DeFi intelligence. Covers 54 services across 97 API endpoints with x402 pay-per-use payments on Base. Real-time FX/forex rates, crypto prices, technical indicators, and market intelligence.
+
+**[Website](https://agentservices.to)**
+**[GitHub](https://github.com/vbkotecha/agentservices)**
+**[MCP Server](https://agentservices.to/mcp)**
+
 ## Developer Tools
 
 Skills and tools to enhance your agent's Ethereum knowledge.
