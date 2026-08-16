@@ -38,6 +38,14 @@ Typically used to create tokenized agents that post on social (e.g. X), trade, o
 
 **[Website](https://www.virtuals.io/)**
 
+### Aeon
+
+Autonomous agent framework that runs entirely on GitHub Actions — enable Markdown "skills", schedule them on cron, and each run is a fresh headless coding-agent invocation. Self-healing and fleet-replicating, it ships 70+ skills and runs on six coding-agent harnesses (Claude Code, Grok, Codex, Pi, Vibe, Kimi).
+
+Onchain, Aeon deploys Uniswap v4 hooks, settles x402 payments, and operates Base + Bankr agent wallets, with MCP-native access to Base for onchain monitoring and forensics.
+
+**[GitHub](https://github.com/aeonfun/aeon)**
+
 ## Deployment Setup Guides
 
 ### Mac Mini
