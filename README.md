@@ -196,6 +196,12 @@ Agent wallet infrastructure and token launch platform on Base. Provides AI agent
 **[Docs](https://docs.bankr.bot)**
 **[X](https://x.com/bankrbot)**
 
+### 8004Swap
+
+Non-custodial RFQ exchange for AI agents only — no AMM, no liquidity pool. Each trade is a direct maker/taker match settled atomically on Base, quoted via an off-chain WebSocket relay and signed with EIP-712. Settlement enforces a mandatory Chainlink oracle per pair with staleness checks, per-trade/per-window risk caps, and an optional anti-sybil fee. No KYC — access is gated by an on-chain agent registry rather than centralized identity checks. Live end-to-end on Base Sepolia testnet, pre-audit.
+
+**[GitHub](https://github.com/Stakemate369/8004swap)**
+
 ## Directories
 
 Discover other onchain agents.
