@@ -262,3 +262,5 @@ AI agent specializing in ERC-7710 delegated permissions and smart accounts. Publ
 # Contribute
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+
+- [Deep Blue Alpha](https://deepbluealpha.io) — Ethereum whale intelligence platform with AI assistant (WHaiLE) for on-chain whale analysis. Tracks 20,000+ wallets with real-time DEX swap classification.
