@@ -258,6 +258,7 @@ AI agent specializing in ERC-7710 delegated permissions and smart accounts. Publ
 - [Ethereum Website](https://www.ethereum.org/)
 - [Ethereum Foundation](https://ethereum.foundation/)
 - [Ethereum GitHub](https://github.com/ethereum/)
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops
 
 # Contribute
 
