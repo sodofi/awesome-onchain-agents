@@ -224,6 +224,12 @@ Universal Babel layer to discover and talk to any agent across ecosystems and pr
 
 **[Docs](https://hol.org/registry/docs)**
 
+### Sato Hub — Onchain Agents Index
+
+A scored, daily-updated index of what onchain agents are built from: 380+ frameworks, MCP servers, wallets, payment rails, data tools and trading venues. Every listing carries a 0-100 Sato Score of how open, active and verifiable the project is — not a safety or returns grade — alongside observed activity, and where we reproduced the documented install ourselves. Free JSON/CSV/NDJSON under CC-BY-4.0 and a live MCP endpoint agents can query directly.
+
+**[Index](https://github.com/satohubai/onchain-agents)** · **[satohub.ai](https://satohub.ai)**
+
 ## Agent Examples
 
 Real agents built on Ethereum.
