@@ -196,6 +196,13 @@ Agent wallet infrastructure and token launch platform on Base. Provides AI agent
 **[Docs](https://docs.bankr.bot)**
 **[X](https://x.com/bankrbot)**
 
+### MetaMask Agent Wallet
+
+Self-custodial agent wallet. The `mm` CLI plus agent skills let AI agents send, swap, bridge, trade perps (Hyperliquid) and prediction markets (Polymarket), earn yield, and pay x402 APIs across EVM chains — within user-set spend limits, with Blockaid threat scanning and MEV protection.
+
+**[Docs](https://docs.metamask.io/agent-wallet/)**
+**[GitHub](https://github.com/MetaMask/agent-skills)**
+
 ## Directories
 
 Discover other onchain agents.
