@@ -139,6 +139,13 @@ Research and due diligence across complex contracts, transactions, and wallets. 
 **[Article and Examples](https://x.com/andrewhong5297/status/2025973649212088721)**
 **[Herd Explorer](http://herd.eco/)**
 
+### Deep Blue Alpha MCP Server
+
+Live Ethereum whale data for AI assistants — 24h whale activity per token, top tokens by whale volume, the latest exchange withdrawals/deposits and DEX swaps from 20,000+ tracked wallets, and a daily Whale Sentiment Index. Free remote server (Streamable HTTP), no API key: `https://deepbluealpha.io/mcp`
+
+**[Website and setup](https://deepbluealpha.io/mcp)**
+**[X](https://x.com/DeepBlueAlpha)**
+
 ## Developer Tools
 
 Skills and tools to enhance your agent's Ethereum knowledge.
