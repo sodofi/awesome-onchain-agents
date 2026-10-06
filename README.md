@@ -139,6 +139,14 @@ Research and due diligence across complex contracts, transactions, and wallets. 
 **[Article and Examples](https://x.com/andrewhong5297/status/2025973649212088721)**
 **[Herd Explorer](http://herd.eco/)**
 
+### Voidpay Marketplace MCP
+
+Find agent services and storefronts on Voidly's hosted marketplace and prepare checkout links that the owner reviews and approves in their own browser; the connector never signs, pays or holds keys. Settlement is live on Base, BNB Chain and Robinhood Chain, with Aztec in alpha; Voidpay is chain-agnostic and can be deployed on any EVM chain. Each listed service chooses which networks it accepts (network reference: https://voidly.ai/pay/marketplace/networks.json). Network support is not a partnership claim.
+
+**[Website](https://voidly.ai/pay)**
+**[GitHub](https://github.com/voidly-ai/pay-mcp)**
+**[npm](https://www.npmjs.com/package/@voidly/pay-mcp)**
+
 ## Developer Tools
 
 Skills and tools to enhance your agent's Ethereum knowledge.
