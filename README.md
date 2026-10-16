@@ -139,6 +139,14 @@ Research and due diligence across complex contracts, transactions, and wallets. 
 **[Article and Examples](https://x.com/andrewhong5297/status/2025973649212088721)**
 **[Herd Explorer](http://herd.eco/)**
 
+### Chord MCP Server
+
+Swap and trade data for agents on Ethereum, Base, Arbitrum and five more EVM chains: best-route quotes, the unsigned swap transaction (the agent's own wallet signs), token boards, trades, candles and wallet PnL. Hosted, Streamable HTTP, no key for quote, swap and data tools.
+
+**[Docs](https://getchord.xyz/docs)**
+**[GitHub](https://github.com/getchordlabs/chord)**
+**[MCP endpoint](https://api.getchord.xyz/v1/mcp)**
+
 ## Developer Tools
 
 Skills and tools to enhance your agent's Ethereum knowledge.
