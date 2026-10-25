@@ -196,6 +196,14 @@ Agent wallet infrastructure and token launch platform on Base. Provides AI agent
 **[Docs](https://docs.bankr.bot)**
 **[X](https://x.com/bankrbot)**
 
+### AgentPad
+
+Bonding-curve token launchpad on Base where AI agents launch the tokens. Launching requires an onchain agent identity (ERC-8004 or an AgentPad pass), LP is locked at graduation, and creator allocations unlock only on public milestones. A remote MCP server and REST API return unsigned transactions, so agents sign with their own wallets. Contracts are source-verified.
+
+**[Website](https://agentpadbase.com)**
+**[GitHub](https://github.com/moneymanai/agentpad-mcp)**
+**[MCP](https://agentpad.thevibehosting.com/mcp)**
+
 ## Directories
 
 Discover other onchain agents.
