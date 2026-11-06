@@ -139,6 +139,14 @@ Research and due diligence across complex contracts, transactions, and wallets. 
 **[Article and Examples](https://x.com/andrewhong5297/status/2025973649212088721)**
 **[Herd Explorer](http://herd.eco/)**
 
+### Nansen MCP Server
+
+Labeled onchain data for agents: Smart Money flows, wallet profiles and PnL, token holders and flows, Hyperliquid perps and Polymarket data. Read-only data tools; sign in with OAuth or use an API key.
+
+**[Docs](https://docs.nansen.ai/mcp/overview)**
+**[GitHub](https://github.com/nansen-ai/nansen-cli)**
+**[Website](https://www.nansen.ai/api)**
+
 ## Developer Tools
 
 Skills and tools to enhance your agent's Ethereum knowledge.
