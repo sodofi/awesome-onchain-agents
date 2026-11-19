@@ -196,6 +196,14 @@ Agent wallet infrastructure and token launch platform on Base. Provides AI agent
 **[Docs](https://docs.bankr.bot)**
 **[X](https://x.com/bankrbot)**
 
+### AutoTasker Hub
+
+An x402 pay-per-call data API and MCP server for AI agents: real-time Chinese social media trending data (Weibo, Zhihu, Douban, Bilibili, Tieba) plus market scan and trend prediction. Calls are settled in USDC on Base via the x402 protocol; no API keys or signup. Source is MIT-licensed, with a public HTTP 402 challenge, an x402 manifest at /.well-known/x402.json, and an honest settlement ledger at /api/x402/proof.
+
+**[Website](https://autotasker.highkingflower.com)**
+**[GitHub](https://github.com/breezesamuel/autotasker-hub-aevum)**
+**[Manifest](https://autotasker.highkingflower.com/.well-known/x402.json)**
+
 ## Directories
 
 Discover other onchain agents.
