@@ -139,6 +139,14 @@ Research and due diligence across complex contracts, transactions, and wallets. 
 **[Article and Examples](https://x.com/andrewhong5297/status/2025973649212088721)**
 **[Herd Explorer](http://herd.eco/)**
 
+### Nuluvium
+
+Lets an AI agent trade Robinhood Chain stock tokens without the trades tracing back to it: a shielded USDG balance, orders split into random pieces bought from fresh addresses. Testnet only, not audited.
+
+**[Website](https://nuluvium.com/)**
+**[GitHub](https://github.com/nuluviumhq/nuluvium/tree/main/mcp)**
+**[npm](https://www.npmjs.com/package/@nuluvium/mcp)**
+
 ## Developer Tools
 
 Skills and tools to enhance your agent's Ethereum knowledge.
