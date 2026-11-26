@@ -180,6 +180,14 @@ A collection of open-source libraries, tools, and applications designed to allow
 
 **[Docs](https://docs.faremeter.xyz/)**
 
+### FMF Tools
+
+Catalog of remote MCP servers and pay-per-call APIs that agents can discover and call with no account. `tools/list` is free; `tools/call` is pay-per-call via x402 on Base (USDC) or MPP.
+
+**[Website](https://tools.fmf-x402.workers.dev/?ref=gh-awesome-onchain-agents)**
+**[Directory MCP](https://tools.fmf-x402.workers.dev/mcp)**
+**[GitHub](https://github.com/GeminiGeorge22/fmf-tools)**
+
 ### AI Agent Guardrails
 
 Open-source safety patterns and guardrails for AI agents that handle financial transactions. Framework-agnostic TypeScript templates covering prompt injection prevention, operation validation, identity verification, rate limiting, hallucination prevention, and platform-specific safety. Production-tested across 24+ EVM and Solana chains. Includes an OpenClaw skill file and llms.txt for agent consumption.
